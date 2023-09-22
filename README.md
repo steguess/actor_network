@@ -38,7 +38,14 @@ The community detection section utilizes the multilevel algorithm to identify un
 
 The assignment requires completion of code chunks, analysis of results, and answering short questions. Please fill in the provided CSV with your answers and upload both this document in HTML and the CSV with your solutions.
 
-## Author ✍
+## Author 👤
 
-Steguess
-[GitHub Profile](https://github.com/steguess)
+ :tada:
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/steguess"><img src="https://avatars.githubusercontent.com/u/86976901?v=4" width="90px;" alt="Stephanie Gessler"/><br /><sub><b>Stephanie Gessler</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=steguess" title="Frontend Developer">💻</a></td>
