@@ -38,4 +38,4 @@ The assignment requires completion of code chunks, analysis of results, and answ
 ## Author ✍
 
 Steguess
-[GitHub Profile](https://github.com/guess)
+[GitHub Profile](https://github.com/steguess)
