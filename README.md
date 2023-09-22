@@ -1,3 +1,6 @@
+
+<img src="movie.png" width="800">
+
 # Actor Collaboration Network Analysis 🎬📊
 
 Welcome to the Actor Collaboration Network Analysis project! In this assignment, we delve into the world of actor collaborations, examining the structure and characteristics of the actor network based on collaborations in movies between 1995 and 2004. The project is divided into several sections, each focusing on different aspects of network analysis using the Igraph package.
