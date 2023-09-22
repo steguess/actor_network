@@ -37,5 +37,5 @@ The assignment requires completion of code chunks, analysis of results, and answ
 
 ## Author ✍
 
-Your Name  
+Steguess
 [GitHub Profile](https://github.com/guess)
